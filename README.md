@@ -4,8 +4,7 @@
 **koko-829/koko-829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- https://github.com/tandpfun/skill-icons -->
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,sass,js,ruby,rails,ai,figma,docker,vscode" />
-<br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,sass,js,ruby,rails,ai,figma,docker,vscode" />
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=koko-829&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
