@@ -7,5 +7,9 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,sass,js,ruby,rails,ai,figma,docker,vscode" />
 <br>
 
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=koko-829&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koko-829&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+</p>
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kosuke731&count=4&unique=true)](https://open.spotify.com/user/kosuke731?si=3f9fe7faa85b428a)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kosuke731&width=620&count=4&unique=true)](https://open.spotify.com/user/kosuke731?si=3f9fe7faa85b428a)
