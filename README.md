@@ -7,5 +7,5 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,sass,js,ruby,rails,ai,figma,docker,vscode" />
 <br>
 
-<!-- For custom width (300 ≤ {width} ≤ 1000): -->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kosuke731&count=6)
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kosuke731&count=4&unique=true)](https://open.spotify.com/user/kosuke731?si=3f9fe7faa85b428a)
