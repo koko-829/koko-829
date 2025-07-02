@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- https://github.com/tandpfun/skill-icons -->
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,sass,js,ruby,rails,ai,figma,docker,vscode" />
+<br>
