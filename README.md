@@ -17,7 +17,7 @@
 </p>
 
 <!-- trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=koko-829&theme=dracula&margin-w=10&title=-Experience,-Reviews)](https://github.com/koko-829/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=koko-829&theme=dracula&margin-w=10&title=-Experience,-Reviews)
 
 # Recent posts
 
