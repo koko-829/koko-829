@@ -22,8 +22,8 @@
 # Recent posts
 
 <!--[START POSTS]-->
-- ![](img/qiita.png) ["りんご"と"りんご"は違う。について真剣に考える。【Ruby】](https://qiita.com/koko829/items/f526d73ebe9e4c670bb8)
-- ![](img/zenn.png) ["月月火水木金金"から休日を探し出す(Ruby正規表現リテラル)](https://qiita.com/koko829/items/232540e988364e7a896f)
+- ![]() ["りんご"と"りんご"は違う。について真剣に考える。【Ruby】](https://qiita.com/koko829/items/f526d73ebe9e4c670bb8)
+- ![]() ["月月火水木金金"から休日を探し出す(Ruby正規表現リテラル)](https://qiita.com/koko829/items/232540e988364e7a896f)
 
 <!--[END POSTS]-->
 
