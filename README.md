@@ -1,5 +1,6 @@
-<img src="https://i.gyazo.com/92429f8ecdcab691a034ed52dbaddd0e.jpg" alt="Image from Gyazo" width="2938">
-<!-- ![GitHub Contributions](github-user-contribution.svg) -->
+<!-- <img src="https://i.gyazo.com/92429f8ecdcab691a034ed52dbaddd0e.jpg" alt="Image from Gyazo" width="2938"> -->
+<img src="images/github-user-contribution.svg" alt="GitHub Contributions" width="2938">
+
 
 <p align="left">
   <a href="https://github.com/koko-829/koko-829/">
