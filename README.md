@@ -41,10 +41,10 @@
 
 - [<img src="images/qiita-icon.png" alt="qitta" width="20"> "りんご"と"りんご"は違う。について真剣に考える。【Ruby】](https://qiita.com/koko829/items/f526d73ebe9e4c670bb8)
 - [<img src="images/qiita-icon.png" alt="qitta" width="20"> "月月火水木金金"から休日を探し出す(Ruby正規表現リテラル)](https://qiita.com/koko829/items/232540e988364e7a896f)
-- [<img src="images/icon.png" alt="note" width="20"> デザインの４原則について学んでみる](https://note.com/inukabu_sub/n/n308e1f1bf3fb)
-- [<img src="images/icon.png" alt="note" width="20"> クリスマスっぽいNow Loadingを作ってみた(デザインのお勉強)](https://note.com/inukabu_sub/n/n80683d852abb)
-- [<img src="images/icon.png" alt="note" width="20"> ProgateのRails講座メモ](https://note.com/inukabu_sub/n/n673c8c774f8a)
-- [<img src="images/icon.png" alt="note" width="20">不正取得とか攻撃関連のIT用語 - note](https://note.com/inukabu_sub/n/nff5380f57d5d)
+- [<img src="images/note-icon.png" alt="note" width="20"> デザインの４原則について学んでみる](https://note.com/inukabu_sub/n/n308e1f1bf3fb)
+- [<img src="images/note-icon.png" alt="note" width="20"> クリスマスっぽいNow Loadingを作ってみた(デザインのお勉強)](https://note.com/inukabu_sub/n/n80683d852abb)
+- [<img src="images/note-icon.png" alt="note" width="20"> ProgateのRails講座メモ](https://note.com/inukabu_sub/n/n673c8c774f8a)
+- [<img src="images/note-icon.png" alt="note" width="20">不正取得とか攻撃関連のIT用語 - note](https://note.com/inukabu_sub/n/nff5380f57d5d)
 
 
 <br>
