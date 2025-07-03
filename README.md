@@ -39,8 +39,8 @@
 # 📝**Recent Posts**
 
 
-- ![]() ["りんご"と"りんご"は違う。について真剣に考える。【Ruby】 - qitta](https://qiita.com/koko829/items/f526d73ebe9e4c670bb8)
-- ![]() ["月月火水木金金"から休日を探し出す(Ruby正規表現リテラル) - qitta](https://qiita.com/koko829/items/232540e988364e7a896f)
+- [<img src="images/qiita-icon.png" alt="GitHub Contributions" width="20"> "りんご"と"りんご"は違う。について真剣に考える。【Ruby】 - qitta](https://qiita.com/koko829/items/f526d73ebe9e4c670bb8)
+- [<img src="images/qiita-icon.png" alt="GitHub Contributions" width="20"> "月月火水木金金"から休日を探し出す(Ruby正規表現リテラル) - qitta](https://qiita.com/koko829/items/232540e988364e7a896f)
 - ![]() [デザインの４原則について学んでみる - note](https://qiita.com/koko829/items/232540e988364e7a896f)
 
 
