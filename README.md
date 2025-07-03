@@ -15,7 +15,7 @@
 | [**Coloratio**](https://github.com/koko-829/coloratio) | [**Stargazing**](https://github.com/koko-829/stargazing) |
 |---|-----------------|
 | [![Image from Gyazo](https://i.gyazo.com/d3603fcc70ecac38076e71ba7feeabf0.png)](https://github.com/koko-829/coloratio) | [![Image from Gyazo](https://i.gyazo.com/66e076a84c20c1605d506c691dc47ca7.png)](https://github.com/koko-829/stargazing) |
-| アプリ1 | アプリ2 |
+| 配色数も比率も自由自在。<br>暮らしの中の「好き」から作る・見つける、<br> 自分だけのカラーパレットアプリ。 | 夜空に向かって素敵な言葉を。<br>あなたの好きな言葉を誰かと交わすアプリ。 |
 
 
 ## 📚Summary
