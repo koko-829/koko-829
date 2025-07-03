@@ -18,9 +18,30 @@
 
 # 💻**My Applications**
 | [**🎨Coloratio🎨**](https://github.com/koko-829/coloratio) | [**⭐️Stargazing⭐️**](https://github.com/koko-829/stargazing) |
-|---|-----------------|
+|---|---|
 | [![Image from Gyazo](https://i.gyazo.com/d3603fcc70ecac38076e71ba7feeabf0.png)](https://github.com/koko-829/coloratio) | [![Image from Gyazo](https://i.gyazo.com/66e076a84c20c1605d506c691dc47ca7.png)](https://github.com/koko-829/stargazing) |
 | [![Image from Gyazo](https://i.gyazo.com/8fa8ca576ba06086848cd854a4126b59.png)](https://coloratio-app.com/posts/34)<br>配色数も比率も自由自在!<br>暮らしの中の「好き」から作る・見つける、<br> 自分だけのカラーパレットアプリ。 | [![Image from Gyazo](https://i.gyazo.com/46371b96134b0e234bbf6416fdb2d25f.png)](https://www.stargazing.jp/)<br>夜空に向かって素敵な言葉を。<br>あなたの好きな言葉を誰かと交わすアプリ。 |
+
+<br>
+
+# ⌛️**My Programming History**
+<br>
+
+
+
+| Date        | Milestone                                   |
+|-------------|---------------------------------------------|
+| Jul 2024    | [Progate](https://prog-8.com/)でのプログラミング学習  |
+| Aug 2024    | プログラミングスクール「[RUNTEQ](https://runteq.jp/)」受講開始 |
+| Nov 2024    | 基本情報技術者試験 取得                   |
+| Dec 2024 - Jan 2025 | ミニアプリ「[Stargazing](https://github.com/koko-829/stargazing)」の開発 |
+| Mar - Apr 2025 | 卒業制作アプリ「[Coloratio](https://github.com/koko-829/coloratio)」のMVP開発  |
+| May 2025    | RUNTEQを卒業                               |
+| May - Jun 2025 | 卒業制作アプリの本リリース作業         |
+| Jun 2025    | 「[Paiza](https://paiza.jp/)」Sランク取得([最大レート：1998](https://paiza.jp/challenges/glicko_rating_share/4hTtUs1pUybmLGbg6cMp6YewbOalBt411ccTE95P64I?721670504))  |
+| Jul 2025 - Present | 就職活動開始                          |
+
+> [こちらのページ](https://mature-hose-7ea.notion.site/2209d79b03e380508397fc515cf3afcd?source=copy_link)から、より詳細な学習の経緯をご確認いただけます。
 
 <br>
 
