@@ -16,7 +16,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,sass,js,ruby,rails,ai,figma,docker,vscode" />
 <br>
 
-### [学習アウトプットまとめ(中村光佑) - Notion](https://mature-hose-7ea.notion.site/2209d79b03e380508397fc515cf3afcd?source=copy_link)
+### [学習アウトプットまとめ(中村光佑) - Notion <img src="images/notion-icon.png" alt="notion" width="26"> ](https://mature-hose-7ea.notion.site/2209d79b03e380508397fc515cf3afcd?source=copy_link)
 > 私がこれまで習慣的に行ってきた[AtCoder](https://atcoder.jp/?lang=ja)(競プロ)の問題アウトプットやIT関連ニュースの要約、また学習中の工夫ポイントや取り組み内容についてまとめたページになります。
 <br>
 <br>
