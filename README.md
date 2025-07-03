@@ -65,10 +65,10 @@
 - [<img src="images/note-icon.png" alt="note" width="20"> デザインの４原則について学んでみる](https://note.com/inukabu_sub/n/n308e1f1bf3fb)
 - [<img src="images/note-icon.png" alt="note" width="20"> クリスマスっぽいNow Loadingを作ってみた(デザインのお勉強)](https://note.com/inukabu_sub/n/n80683d852abb)
 - [<img src="images/note-icon.png" alt="note" width="20"> ProgateのRails講座メモ](https://note.com/inukabu_sub/n/n673c8c774f8a)
-- [<img src="images/note-icon.png" alt="note" width="20">不正取得とか攻撃関連のIT用語 - note](https://note.com/inukabu_sub/n/nff5380f57d5d)
+- [<img src="images/note-icon.png" alt="note" width="20">不正取得とか攻撃関連のIT用語](https://note.com/inukabu_sub/n/nff5380f57d5d)
 
 
 <br>
 
 # 🎶**NowPlaying**
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kosuke731&width=620&count=4&unique=true)](https://open.spotify.com/user/kosuke731?si=3f9fe7faa85b428a)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kosuke731&width=620&count=6&unique=true)](https://open.spotify.com/user/kosuke731?si=3f9fe7faa85b428a)
