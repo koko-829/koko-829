@@ -1,5 +1,4 @@
 <!-- <img src="https://i.gyazo.com/92429f8ecdcab691a034ed52dbaddd0e.jpg" alt="Image from Gyazo" width="2938"> -->
-<img src="images/github-user-contribution.svg" alt="GitHub Contributions" width="2938">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koko-829/koko-829/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koko-829/koko-829/output/github-contribution-grid-snake.svg">
